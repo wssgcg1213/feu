@@ -31,6 +31,12 @@
 
 
 
+### 群内交流记录
+
+- [\[董天成\]移动端React与SPA的首屏优化](https://github.com/wssgcg1213/feu/issues/2)
+
+
+
 ### 修订
 
 - 这个规范现在暂时是我个人想的，可能有一些不合理或者不够完善的地方，希望大家给这个repo提交pull request，感谢。
