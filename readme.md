@@ -38,11 +38,25 @@
 
 
 
+###博客分享
+
+- [SmallDragonLuo](http://blog.smalldragonluo.com/)
+- [AndyCall]()
+- [CongMin](http://wp.congm.in/)
+- [Ling.](https://zeroling.com/)
+- 更多请提交 PR 或在群里找管理员 :)_
+
+
+
+
 ###资源分享
 
-- @Ling. - 重邮教育网 NPM 镜像源 http://npm.mirror.cqupt.edu.cn
+- @CongMin - [内网外入 https://cqupt.congm.in/](https://cqupt.congm.in/)
+- @Ling. - [重邮教育网 NPM 镜像源 http://npm.mirror.cqupt.edu.cn](http://npm.mirror.cqupt.edu.cn)
 - @CongMin - JetBrains License Server http://idea.congm.in
-- @天光云影MirrorTeam - 重邮 Linux 镜像源 http://mirrors.cqupt.edu.cn
+- @天光云影MirrorTeam - [重邮 Linux 镜像源 http://mirrors.cqupt.edu.cn](http://mirrors.cqupt.edu.cn)
+
+
 
 
 
