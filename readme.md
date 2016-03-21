@@ -38,6 +38,14 @@
 
 
 
+###资源分享
+
+- @Ling. - 重邮教育网 NPM 镜像源 http://npm.mirror.cqupt.edu.cn
+- @CongMin - JetBrains License Server http://idea.congm.in
+- @天光云影MirrorTeam - 重邮 Linux 镜像源 http://mirrors.cqupt.edu.cn
+
+
+
 ### 修订
 
 - 欢迎大家给这个repo提交pull request，感谢。
