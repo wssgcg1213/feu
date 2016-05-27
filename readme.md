@@ -42,7 +42,7 @@
 
 - [SmallDragonLuo](http://blog.smalldragonluo.com/)
 - [AndyCall]()
-- [CongMin](http://wp.congm.in/)
+- [CongMin](https://i.congm.in/)
 - [Ling.](https://zeroling.com/)
 - 更多请提交 PR 或在群里找管理员 :)_
 
